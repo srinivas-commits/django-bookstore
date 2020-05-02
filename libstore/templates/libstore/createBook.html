@@ -1,0 +1,51 @@
+{% extends 'basic_layout.html' %}
+{% load crispy_forms_tags %}
+
+{% block content %}
+
+<header>
+    <nav class="navbar navbar-dark bg-primary">
+        <a href="{% url 'libstore:library' %}" class="btn btn-warning mr-sm-2"> Back </a></p>
+        <form action="{% url 'accounts:logout' %}" method="POST">
+            {% csrf_token %}
+            <button type="submit" class="btn btn-danger"> Log out </button>
+        </form>
+
+    </nav>
+</header>
+
+<h3 class="Display-4 mr-3 ml-3 mt-2"> Create a Book </h3>
+
+<p class="h5 mr-3 ml-3 mb-5">(with review page and the pdf file here)</p>
+
+<div class="form-group mr-5 ml-5">
+
+    <form class="{url 'libstore:create_book' }" method="POST" enctype="multipart/form-data">
+
+        {% csrf_token %}
+        <div class="row">
+            <div class="col-6">
+                {{ form.topic_title|as_crispy_field }}
+            </div>
+            <div class="col-6">
+                {{ form.slug|as_crispy_field }}
+            </div>
+        </div>
+        <div>
+            {{form.overview|as_crispy_field}}
+        </div>
+        <div class="row">
+            <div class="col-6">
+                {{ form.img|as_crispy_field }}
+            </div>
+            <div class="col-6">
+                {{ form.stored_file|as_crispy_field }}
+            </div>
+        </div>
+        <input type="submit" class="btn btn-success" value="Create">
+
+    </form>
+
+</div>
+
+{% endblock %}

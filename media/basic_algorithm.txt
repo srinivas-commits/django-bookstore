@@ -1,0 +1,221 @@
+Design and analysis of algorithms : How does an NPTEL online course work?
+2019-12-27
+
+Dear Learner
+
+Welcome to the NPTEL Online course. Thank you for enrolling with us. 
+
+We are releasing the first set of videos which are help videos. These are prepared to walk you through the portal functionalities and give you a basic idea about the entire online learning process. We request you to go through each of these videos for a better understanding of the NPTEL Certification Process (They are quite short and brief). 
+
+For first time online enrollees: How to view the videos: Click on the tab (on the left side if using a Desktop) called Course Outline and then on the Unit called "How does an NPTEL online course work?". Click on every link given there and watch the video. 
+
+Hope these will help you get the most out of the online course. After watching these, ask any queries you may have on the Discussion Forum. Looking forward to interacting with you.
+
+Thanks & Regards,
+
+NPTEL Team.
+
+Design and analysis of algorithms : REGISTER TODAY - CERTIFICATION EXAM FORM IS NOW OPEN!
+2019-12-23
+
+Dear Learner, 
+
+Here is the much-awaited announcement on registering for the March 2020 NPTEL course certification exam. 
+
+1.    The registration for the certification exam is open only to those learners who have enrolled in the course.
+2.    If you want to register for the exam for this course, login here using the same email id which you had used to enroll to the course in Swayam portal. Please note that Assignments submitted through the exam registered email id ALONE will be taken into consideration towards final consolidated score & certification.
+
+3.    Date of exam: March 29, 2020
+Certification exam registration URL is: https://nptelmarchexam.swayam.gov.in/
+Choose an exam session: Forenoon: 9.00 AM -12.00 PM; Afternoon: 2.00PM - 5.00 PM
+Choose from the Cities where exam will be conducted: Exam cities
+4.    Exam fees:
+If you register for exam and pay before Feb 17, 10:00 AM, Exam fees will be Rs. 1000/- per exam.
+If you register for exam before Feb 17, 10:00 AM and have not paid or if you register between Feb 17, 10:00 AM &  Feb 21, 5:00 PM, Exam fees will be Rs. 1500/- per exam
+ 5.    50% fee waiver for the following categories:
+Students belonging to the SC/ST category: please select Yes for the SC/ST option and upload the correct Community certificate
+Students belonging to the PwD category with more than 40% disability: please select Yes for the option and upload the relevant Disability certificate.
+6.    Last date for exam registration:  Feb 21, 2020 5:00 PM (Friday). 
+
+7.    Mode of payment:  Online payment - debit card/credit card/net banking.
+
+8.    HALL TICKET: 
+The hall ticket will be available for download tentatively by 2 weeks prior to the exam date - between March 20-25 2020. We will confirm the same through an announcement once it is published. 
+
+9. FOR CANDIDATES WHO WOULD LIKE TO WRITE MORE THAN 1 COURSE EXAM:- you can add or delete courses and pay separately – till the date when the exam form closes. Same day of exam – you can write exams for 2 courses in the 2 sessions. Same exam center will be allocated for both the sessions. 
+
+10. Data changes: 
+Following are the data that can be changed once the exam form is submitted (Last date for data changes: 21 Feb 2020, 5:00 PM):  
+
+Data that cannot be changed in form by candidates themselves: Name, DOB, Address, College name, Role, Photo, Signature, Exam city. 
+If you have registered with us already, we have pre-filled your details in the current exam form which is non-editable, in case if you want to change anything you may send email to support@nptel.iitm.ac.in giving your Application number, email id and name. 
+Data that can be changed by Email request to us : Course selected, exam shift. For changes in these parameters, you may send email   to support@nptel.iitm.ac.in giving your Application number, email id and name.               
+No changes will be entertained in any details after 21 Feb 2020, 5:00 PM.     
+  
+11. LAST DATE FOR CANCELLING EXAMS and getting a refund: 21 Feb 2020, 5:00 PM
+       
+12. Click here to view Timeline and Guideline : Guideline
+       
+Thanks & Regards,       
+NPTEL TEAM
+Welcome to NPTEL Online Course : Design and analysis of algorithms
+2019-12-05
+
+Dear student
+
+Welcome to SWAYAM-NPTEL Online Courses and Certification!
+
+Thank you for signing up for our online course "Design and analysis of algorithms". We wish you an enjoyable and informative learning experience.
+
+Details regarding the course: 
+Name of the course	: Design and analysis of algorithms 
+Course url			: https://swayam.gov.in/nd1_noc20_cs27/preview
+Course duration 		: 8 Weeks
+
+The course will begin on 27th January, 2020 When content is released on the portal, you will get an email alerting you.
+
+CONTENT AND ASSIGNMENTS
+
+Every week, about 2.5 to 4 hours of videos containing content by the Course instructor will be released along with an assignment based on this. Please watch the lectures, follow the course regularly and submit all assessments and assignments before the due date. Your regular participation is vital for learning and doing well in the course. This will be done week on week through the duration of the course.
+Please do the assignments yourself and even if you take help, kindly try to learn from it. These assignment will help you prepare for the final exams. Plagiarism and violating the Honor code will be taken very seriously if detected during the submission of assignments. 
+
+ANNOUNCEMENT AND DISCUSSION GROUPS TO CLEAR DOUBTS:
+
+The announcement group - will only have messages from course instructors and teaching assistants - regarding the lessons, assignments, exam registration, hall tickets etc. 
+The discussion forum (Ask a question tab on the portal) - is for everyone to ask questions and interact.Anyone who knows the answers can reply to anyone's post and the course instructor/TA will also respond to your queries. Please make maximum use of this feature as this will help you learn much better.
+If you have any questions regarding the exam, registration, hall tickets, results, queries related to the technical content in the lectures, any doubts in the assignments, etc can be posted in the forum section
+
+TO GET A CERTIFICATE - PROCESS AND CRITERIA:
+The course is free to enroll and learn from. But if you want a certificate, you have to register and write the proctored exam conducted by us in person at any of the designated exam centres.
+The exam is optional for a fee of Rs 1000/- (Rupees one thousand only).
+Date and Time of Exams: 29th March, 2020 Morning session 9am to 12 noon; Afternoon Session 2pm to 5pm.
+Registration url: Announcements will be made when the registration form is open for registrations.
+The online registration form has to be filled and the certification exam fee needs to be paid. More details will be made available when the exam registration form is published. If there are any changes, it will be mentioned then.
+Please check the form for more details on the cities where the exams will be held, the conditions you agree to when you fill the form etc.
+
+CRITERIA TO GET A CERTIFICATE
+
+Average assignment score = 25% of average of best 6 assignments out of the total 8 assignments given in the course. 
+( All assignments in a particular week will be counted towards final scoring). 
+Exam score = 75% of the proctored certification exam score out of 100
+Final score = Average assignment score + Exam score
+
+YOU WILL BE ELIGIBLE FOR A CERTIFICATE ONLY IF AVERAGE ASSIGNMENT SCORE >=10/25 AND EXAM SCORE >= 30/75. If one of the 2 criteria is not met, you will not get the certificate even if the Final score >= 40/100.
+
+Certificate will have your name, photograph and the score in the final exam with the breakup.It will have the logos of NPTEL and IIT Madras .It will be e-verifiable at nptel.ac.in/noc.
+
+Only the e-certificate will be made available. Hard copies will not be dispatched.
+
+Once again, thanks for your interest in our online courses and certification. Happy learning. 
+
+- NPTEL teamDesign and analysis of algorithms : How does an NPTEL online course work?
+2019-12-27
+
+Dear Learner
+
+Welcome to the NPTEL Online course. Thank you for enrolling with us. 
+
+We are releasing the first set of videos which are help videos. These are prepared to walk you through the portal functionalities and give you a basic idea about the entire online learning process. We request you to go through each of these videos for a better understanding of the NPTEL Certification Process (They are quite short and brief). 
+
+For first time online enrollees: How to view the videos: Click on the tab (on the left side if using a Desktop) called Course Outline and then on the Unit called "How does an NPTEL online course work?". Click on every link given there and watch the video. 
+
+Hope these will help you get the most out of the online course. After watching these, ask any queries you may have on the Discussion Forum. Looking forward to interacting with you.
+
+Thanks & Regards,
+
+NPTEL Team.
+
+Design and analysis of algorithms : REGISTER TODAY - CERTIFICATION EXAM FORM IS NOW OPEN!
+2019-12-23
+
+Dear Learner, 
+
+Here is the much-awaited announcement on registering for the March 2020 NPTEL course certification exam. 
+
+1.    The registration for the certification exam is open only to those learners who have enrolled in the course.
+2.    If you want to register for the exam for this course, login here using the same email id which you had used to enroll to the course in Swayam portal. Please note that Assignments submitted through the exam registered email id ALONE will be taken into consideration towards final consolidated score & certification.
+
+3.    Date of exam: March 29, 2020
+Certification exam registration URL is: https://nptelmarchexam.swayam.gov.in/
+Choose an exam session: Forenoon: 9.00 AM -12.00 PM; Afternoon: 2.00PM - 5.00 PM
+Choose from the Cities where exam will be conducted: Exam cities
+4.    Exam fees:
+If you register for exam and pay before Feb 17, 10:00 AM, Exam fees will be Rs. 1000/- per exam.
+If you register for exam before Feb 17, 10:00 AM and have not paid or if you register between Feb 17, 10:00 AM &  Feb 21, 5:00 PM, Exam fees will be Rs. 1500/- per exam
+ 5.    50% fee waiver for the following categories:
+Students belonging to the SC/ST category: please select Yes for the SC/ST option and upload the correct Community certificate
+Students belonging to the PwD category with more than 40% disability: please select Yes for the option and upload the relevant Disability certificate.
+6.    Last date for exam registration:  Feb 21, 2020 5:00 PM (Friday). 
+
+7.    Mode of payment:  Online payment - debit card/credit card/net banking.
+
+8.    HALL TICKET: 
+The hall ticket will be available for download tentatively by 2 weeks prior to the exam date - between March 20-25 2020. We will confirm the same through an announcement once it is published. 
+
+9. FOR CANDIDATES WHO WOULD LIKE TO WRITE MORE THAN 1 COURSE EXAM:- you can add or delete courses and pay separately – till the date when the exam form closes. Same day of exam – you can write exams for 2 courses in the 2 sessions. Same exam center will be allocated for both the sessions. 
+
+10. Data changes: 
+Following are the data that can be changed once the exam form is submitted (Last date for data changes: 21 Feb 2020, 5:00 PM):  
+
+Data that cannot be changed in form by candidates themselves: Name, DOB, Address, College name, Role, Photo, Signature, Exam city. 
+If you have registered with us already, we have pre-filled your details in the current exam form which is non-editable, in case if you want to change anything you may send email to support@nptel.iitm.ac.in giving your Application number, email id and name. 
+Data that can be changed by Email request to us : Course selected, exam shift. For changes in these parameters, you may send email   to support@nptel.iitm.ac.in giving your Application number, email id and name.               
+No changes will be entertained in any details after 21 Feb 2020, 5:00 PM.     
+  
+11. LAST DATE FOR CANCELLING EXAMS and getting a refund: 21 Feb 2020, 5:00 PM
+       
+12. Click here to view Timeline and Guideline : Guideline
+       
+Thanks & Regards,       
+NPTEL TEAM
+Welcome to NPTEL Online Course : Design and analysis of algorithms
+2019-12-05
+
+Dear student
+
+Welcome to SWAYAM-NPTEL Online Courses and Certification!
+
+Thank you for signing up for our online course "Design and analysis of algorithms". We wish you an enjoyable and informative learning experience.
+
+Details regarding the course: 
+Name of the course	: Design and analysis of algorithms 
+Course url			: https://swayam.gov.in/nd1_noc20_cs27/preview
+Course duration 		: 8 Weeks
+
+The course will begin on 27th January, 2020 When content is released on the portal, you will get an email alerting you.
+
+CONTENT AND ASSIGNMENTS
+
+Every week, about 2.5 to 4 hours of videos containing content by the Course instructor will be released along with an assignment based on this. Please watch the lectures, follow the course regularly and submit all assessments and assignments before the due date. Your regular participation is vital for learning and doing well in the course. This will be done week on week through the duration of the course.
+Please do the assignments yourself and even if you take help, kindly try to learn from it. These assignment will help you prepare for the final exams. Plagiarism and violating the Honor code will be taken very seriously if detected during the submission of assignments. 
+
+ANNOUNCEMENT AND DISCUSSION GROUPS TO CLEAR DOUBTS:
+
+The announcement group - will only have messages from course instructors and teaching assistants - regarding the lessons, assignments, exam registration, hall tickets etc. 
+The discussion forum (Ask a question tab on the portal) - is for everyone to ask questions and interact.Anyone who knows the answers can reply to anyone's post and the course instructor/TA will also respond to your queries. Please make maximum use of this feature as this will help you learn much better.
+If you have any questions regarding the exam, registration, hall tickets, results, queries related to the technical content in the lectures, any doubts in the assignments, etc can be posted in the forum section
+
+TO GET A CERTIFICATE - PROCESS AND CRITERIA:
+The course is free to enroll and learn from. But if you want a certificate, you have to register and write the proctored exam conducted by us in person at any of the designated exam centres.
+The exam is optional for a fee of Rs 1000/- (Rupees one thousand only).
+Date and Time of Exams: 29th March, 2020 Morning session 9am to 12 noon; Afternoon Session 2pm to 5pm.
+Registration url: Announcements will be made when the registration form is open for registrations.
+The online registration form has to be filled and the certification exam fee needs to be paid. More details will be made available when the exam registration form is published. If there are any changes, it will be mentioned then.
+Please check the form for more details on the cities where the exams will be held, the conditions you agree to when you fill the form etc.
+
+CRITERIA TO GET A CERTIFICATE
+
+Average assignment score = 25% of average of best 6 assignments out of the total 8 assignments given in the course. 
+( All assignments in a particular week will be counted towards final scoring). 
+Exam score = 75% of the proctored certification exam score out of 100
+Final score = Average assignment score + Exam score
+
+YOU WILL BE ELIGIBLE FOR A CERTIFICATE ONLY IF AVERAGE ASSIGNMENT SCORE >=10/25 AND EXAM SCORE >= 30/75. If one of the 2 criteria is not met, you will not get the certificate even if the Final score >= 40/100.
+
+Certificate will have your name, photograph and the score in the final exam with the breakup.It will have the logos of NPTEL and IIT Madras .It will be e-verifiable at nptel.ac.in/noc.
+
+Only the e-certificate will be made available. Hard copies will not be dispatched.
+
+Once again, thanks for your interest in our online courses and certification. Happy learning. 
+
+- NPTEL team

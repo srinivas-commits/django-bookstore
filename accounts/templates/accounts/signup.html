@@ -1,0 +1,12 @@
+{% extends 'basic_layout.html' %}
+{% load crispy_forms_tags %}
+{% block content %}
+<div class="form-group d-flex justify-content-center align-items-center mt-5">
+    <form action="{% url 'accounts:signup' %}" method='post'>
+        {% csrf_token %}
+        {{ form|crispy }}
+        <input type="submit" class="btn btn-info" value="Sign Up">
+        <p><a href="{% url 'accounts:login' %}">Back to login</a></p>
+    </form>
+</div>
+{% endblock %}
