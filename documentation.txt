@@ -1,0 +1,2 @@
+This is a project for collabrating between people to understand the other's codes and interest's and they can share their knowledge with other developers.
+# # obviously for testing some defult files and images has been uploaded.
