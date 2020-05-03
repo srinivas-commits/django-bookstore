@@ -1,2 +1,9 @@
 This is a project for collabrating between people to understand the other's codes and interest's and they can share their knowledge with other developers.
 # # obviously for testing some defult files and images has been uploaded.
+
+!!!!  I knowingly made debugger == True So that other's could see the internal structure of the backend django framework easily.
+
+## basically this contains 5-6 templates where a user can create signup and login and a blog's of other's where he can see the details of blog in a separate page. he can download their files and images in it. and creatin blog's page.
+
+## this is the overiew of the project.
+## it can be deployed in docker conatiner's and the docker file, requirements file and docker compose files can be used to create a separate container
